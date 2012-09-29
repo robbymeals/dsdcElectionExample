@@ -1,0 +1,49 @@
+Poll	Date	Sample	MoE	Obama (D)	McCain (R)	Spread
+Final Results	--	--	--	54.1	43.8	Obama +10.3
+RCP Average	10/27 - 11/1	--	--	51.6	41.8	Obama +9.8
+SurveyUSA	10/30 - 11/1	669 LV	3.9	49	46	Obama +3
+Star Tribune	10/29 - 10/31	933 LV	4.1	53	42	Obama +11
+Rasmussen	10/28 - 10/28	500 LV	4.5	55	43	Obama +12
+Research 2000	10/27 - 10/29	600 LV	4.0	53	38	Obama +15
+PPP (D)	10/28 - 10/30	1050 LV	3.0	57	41	Obama +16
+NBC/Mason-Dixon	10/27 - 10/28	625 LV	4.0	48	40	Obama +8
+Minn. Pub. Radio	10/24 - 10/28	451 LV	4.6	56	37	Obama +19
+Rasmussen	10/22 - 10/22	500 LV	4.5	56	41	Obama +15
+Big10 Battleground	10/19 - 10/22	583 LV	4.2	57	38	Obama +19
+St. Cloud State U.	10/14 - 10/22	509 A	4.6	42	37	Obama +5
+National Journal/FD	10/16 - 10/20	402 RV	4.9	50	40	Obama +10
+SurveyUSA	10/16 - 10/18	655 LV	3.9	50	44	Obama +6
+Star Tribune	10/16 - 10/17	1049 LV	3.8	52	41	Obama +11
+Research 2000	10/15 - 10/16	600 LV	4.0	52	39	Obama +13
+Quinnipiac/WSJ/WP	10/8 - 10/12	1043 LV	3.0	51	40	Obama +11
+Rasmussen	10/7 - 10/7	500 LV	4.5	52	45	Obama +7
+ARG	10/4 - 10/7	600 LV	4.0	47	46	Obama +1
+Minn. Pub. Radio	10/3 - 10/5	418 LV	4.8	54	40	Obama +14
+Star Tribune	9/30 - 10/2	1084 LV	3.7	55	37	Obama +18
+SurveyUSA	9/30 - 10/1	725 LV	3.7	46	47	McCain +1
+CNN/Time	9/28 - 9/30	849 LV	3.5	54	43	Obama +11
+Quinnipiac/WSJ/WP	9/14 - 9/21	1301 LV	2.7	47	45	Obama +2
+Rasmussen	9/18 - 9/18	500 LV	4.5	52	44	Obama +8
+Big10 Battleground	9/14 - 9/17	610 RV	4.0	47	45	Obama +2
+Star Tribune	9/10 - 9/12	1106 LV	3.9	45	45	Tie
+SurveyUSA	9/10 - 9/11	734 LV	3.7	49	47	Obama +2
+CNN/Time	8/31 - 9/2	742 RV	3.5	53	41	Obama +12
+SurveyUSA	8/13 - 8/14	682 LV	3.8	47	45	Obama +2
+Rasmussen	8/13 - 8/13	700 LV	4.0	49	45	Obama +4
+Minn. Pub. Radio	8/7 - 8/17	763 LV	--	48	38	Obama +10
+Quinnipiac/WSJ/WP	7/14 - 7/22	1261 LV	--	46	44	Obama +2
+Rasmussen	7/22 - 7/22	500 LV	--	52	39	Obama +13
+Rasmussen	7/10 - 7/10	500 LV	--	54	37	Obama +17
+Quinnipiac/WSJ/WP	6/17 - 6/24	1572 LV	--	54	37	Obama +17
+SurveyUSA	6/13 - 6/16	543 LV	--	47	46	Obama +1
+Rasmussen	6/11 - 6/11	500 LV	4.0	52	39	Obama +13
+SurveyUSA	5/16 - 5/18	600 RV	--	47	42	Obama +5
+Rasmussen	5/22 - 5/22	500 LV	4.5	53	38	Obama +15
+Star Tribune	5/12 - 5/15	1117 RV	--	51	38	Obama +13
+Rasmussen	4/22 - 4/22	500 LV	--	52	38	Obama +14
+SurveyUSA	4/11 - 4/13	535 RV	--	49	43	Obama +6
+Rasmussen	3/19 - 3/19	500 LV	--	47	43	Obama +4
+SurveyUSA	3/14 - 3/16	532	--	46	47	McCain +1
+SurveyUSA	2/26 - 2/28	609 RV	--	49	42	Obama +7
+Rasmussen	2/16 - 2/16	500 LV	--	53	38	Obama +15
+Minn. Pub. Radio	1/20 - 1/27	917 A	--	50	37	Obama +13

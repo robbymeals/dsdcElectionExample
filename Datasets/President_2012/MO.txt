@@ -1,0 +1,21 @@
+Poll	Date	Sample	MoE	Romney (R)	Obama (D)	Spread
+RCP Average	8/22 - 9/11	--	--	50.3	43.0	Romney +7.3
+Rasmussen Reports	9/11 - 9/11	500 LV	4.5	48	45	Romney +3
+PPP (D)	8/28 - 8/29	621 LV	3.9	53	41	Romney +12
+Post-Dispatch/Mason-Dixon	8/22 - 8/23	625 LV	4.0	50	43	Romney +7
+Rasmussen Reports	8/22 - 8/22	500 LV	4.5	46	47	Obama +1
+PPP (D)	8/20 - 8/20	500 LV	4.4	52	42	Romney +10
+SurveyUSA	8/9 - 8/12	585 LV	4.1	45	44	Romney +1
+Rasmussen Reports	7/30 - 7/30	500 LV	4.5	50	44	Romney +6
+Post-Dispatch/Mason-Dixon*	7/23 - 7/25	625 LV	4.0	51	42	Romney +9
+WeAskAmerica*	7/24 - 7/24	1172 LV	3.0	49	40	Romney +9
+Rasmussen Reports	6/7 - 6/7	500 LV	4.5	49	42	Romney +7
+PPP (D)	5/24 - 5/27	602 RV	4.0	44	45	Obama +1
+Rasmussen Reports	4/17 - 4/17	500 LV	4.5	48	45	Romney +3
+Rasmussen Reports	3/14 - 3/15	500 LV	4.5	50	41	Romney +9
+PPP (D)	1/27 - 1/29	582 RV	4.1	45	45	Tie
+Rasmussen Reports	11/9 - 11/9	500 LV	4.5	45	42	Romney +3
+PPP (D)	9/9 - 9/12	632 RV	3.9	47	43	Romney +4
+PPP (D)	4/28 - 5/1	555 RV	3.9	45	43	Romney +2
+PPP (D)	3/3 - 3/6	612 RV	4.0	44	43	Romney +1
+PPP (D)	11/29 - 12/1	515 RV	4.3	47	41	Romney +6

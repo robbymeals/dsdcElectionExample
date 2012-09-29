@@ -1,0 +1,29 @@
+Poll	Date	Sample	MoE	Obama (D)	McCain (R)	Spread
+Final Results	--	--	--	56.9	41.8	Obama +15.1
+RCP Average	9/29 - 10/31	--	--	50.3	43.0	Obama +7.3
+SurveyUSA	10/29 - 10/31	664 LV	3.9	52	45	Obama +7
+PPP (D)	10/28 - 10/30	1537 LV	2.5	58	41	Obama +17
+Rasmussen	10/28 - 10/28	500 LV	4.5	54	44	Obama +10
+Rasmussen	10/13 - 10/13	700 LV	4.0	55	42	Obama +13
+SurveyUSA	10/12 - 10/13	568 LV	4.2	52	45	Obama +7
+Albuquerque Journal	9/29 - 10/2	659 LV	3.8	45	40	Obama +5
+Rasmussen	10/1 - 10/1	700 LV	4.0	49	44	Obama +5
+SurveyUSA	9/29 - 9/30	689 LV	3.8	52	44	Obama +8
+PPP (D)	9/17 - 9/19	1037 LV	3.0	53	42	Obama +11
+SurveyUSA	9/14 - 9/16	671 LV	3.9	52	44	Obama +8
+National Journal/FD	9/11 - 9/15	400 RV	4.9	49	42	Obama +7
+Rasmussen	9/8 - 9/8	700 LV	4.0	47	49	McCain +2
+CNN/Time	8/24 - 8/26	659 RV	--	53	40	Obama +13
+Rasmussen	8/20 - 8/20	700 LV	--	48	44	Obama +4
+Mason-Dixon	8/13 - 8/15	400 LV	5.0	41	45	McCain +4
+Rasmussen	7/24 - 7/24	700 LV	4.0	49	43	Obama +6
+SurveyUSA	6/17 - 6/19	539 LV	--	49	46	Obama +3
+Rasmussen	6/18 - 6/18	500 LV	--	47	39	Obama +8
+SurveyUSA	5/16 - 5/18	600 RV	--	44	44	Tie
+Rasmussen	5/14 - 5/14	500 LV	--	50	41	Obama +9
+SurveyUSA	4/11 - 4/13	490 RV	--	44	50	McCain +6
+Rasmussen	4/8 - 4/8	500 LV	--	45	42	Obama +3
+SurveyUSA	2/26 - 2/28	601 RV	--	50	43	Obama +7
+Rasmussen	2/17 - 2/18	500 LV	--	44	44	Tie
+SurveyUSA	1/20 - 1/21	501 RV	--	41	50	McCain +9
+SurveyUSA	12/13 - 12/15	523 RV	--	40	51	McCain +11

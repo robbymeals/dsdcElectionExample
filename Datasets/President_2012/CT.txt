@@ -1,0 +1,12 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	8/22 - 9/26	--	--	53.0	39.3	Obama +13.7
+PPP (D)	9/24 - 9/26	801 LV	3.5	54	41	Obama +13
+Hartford Courant/UConn	9/11 - 9/16	508 LV	4.4	53	32	Obama +21
+Quinnipiac	8/22 - 8/26	1472 LV	2.6	52	45	Obama +7
+PPP (D)	8/22 - 8/23	881 RV	3.3	53	40	Obama +13
+Rasmussen Reports	8/21 - 8/21	500 LV	4.5	51	43	Obama +8
+PPP (D)	7/26 - 7/29	771 LV	3.5	51	43	Obama +8
+Quinnipiac	5/29 - 6/3	1408 RV	2.6	50	38	Obama +12
+Quinnipiac	3/14 - 3/19	1622 RV	2.4	53	37	Obama +16
+PPP (D)	9/22 - 9/25	592 RV	4.0	47	45	Obama +2
+Quinnipiac	9/8 - 9/13	1230 RV	2.8	49	36	Obama +13

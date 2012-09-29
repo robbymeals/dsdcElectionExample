@@ -1,0 +1,18 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/7 - 9/22	--	--	54.3	37.7	Obama +16.6
+Gravis Marketing	9/21 - 9/22	625 LV	4.6	56	39	Obama +17
+Elway Poll	9/9 - 9/12	405 RV	5.0	53	36	Obama +17
+SurveyUSA	9/7 - 9/9	524 LV	4.4	54	38	Obama +16
+SurveyUSA	8/1 - 8/2	524 LV	4.4	54	37	Obama +17
+SurveyUSA	7/16 - 7/18	630 RV	4.0	46	37	Obama +9
+PPP (D)	6/14 - 6/17	1073 RV	3.0	54	41	Obama +13
+Elway Poll	6/13 - 6/16	408 RV	5.0	49	41	Obama +8
+Strategies 360 (D)	5/22 - 5/24	500 LV	4.4	51	40	Obama +11
+SurveyUSA	5/8 - 5/9	557 RV	4.2	50	36	Obama +14
+PPP (D)	2/16 - 2/19	1264 RV	2.8	53	38	Obama +15
+SurveyUSA	2/13 - 2/15	572 RV	4.2	50	39	Obama +11
+Elway Poll	2/7 - 2/9	405 RV	5.0	49	38	Obama +11
+SurveyUSA	11/21 - 11/23	549 LV	4.3	49	41	Obama +8
+The Washington Poll	10/10 - 10/30	469 RV	4.5	50	41	Obama +9
+Strategies 360 (D)	9/11 - 9/14	500 LV	4.4	49	40	Obama +9
+PPP (D)	5/12 - 5/15	1098 RV	3.0	51	40	Obama +11

@@ -1,0 +1,71 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/15 - 9/24	--	--	49.3	46.1	Obama +3.2
+Florida Times-Union/InAdv	9/24 - 9/24	540 LV	4.1	49	46	Obama +3
+Washington Post	9/19 - 9/23	769 LV	4.5	51	47	Obama +4
+PPP (D)	9/20 - 9/23	861 LV	3.3	50	46	Obama +4
+CBS/NYT/Quinnipiac	9/18 - 9/24	1162 LV	3.0	53	44	Obama +9
+ARG	9/20 - 9/22	600 LV	4.0	50	45	Obama +5
+Miami Herald/Mason-Dixon*	9/17 - 9/19	800 LV	3.5	48	47	Obama +1
+WeAskAmerica*	9/18 - 9/18	1230 LV	2.8	49	46	Obama +3
+Purple Strategies	9/15 - 9/19	600 LV	4.0	47	48	Romney +1
+FOX News	9/16 - 9/18	829 LV	3.0	49	44	Obama +5
+Gravis Marketing	9/15 - 9/16	1728 LV	2.5	47	48	Romney +1
+Rasmussen Reports	9/12 - 9/12	500 LV	4.5	48	46	Obama +2
+Caddell/McLaughlin/SAN (R)	9/11 - 9/12	600 LV	4.0	44	48	Romney +4
+NBC/WSJ/Marist	9/9 - 9/11	980 LV	3.1	49	44	Obama +5
+AIF/McLaughlin (R)	9/9 - 9/10	600 LV	4.0	47	50	Romney +3
+SurveyUSA	9/7 - 9/9	596 LV	4.1	48	44	Obama +4
+Gravis Marketing	9/2 - 9/2	1288 LV	2.7	47	48	Romney +1
+PPP (D)	8/31 - 9/2	1548 LV	2.5	48	47	Obama +1
+CNN/Time	8/22 - 8/26	776 LV	3.0	50	46	Obama +4
+Gravis Marketing	8/20 - 8/20	728 LV	3.8	46	50	Romney +4
+CBS/NYT/Quinnipiac	8/15 - 8/21	1241 LV	3.0	49	46	Obama +3
+Rasmussen Reports	8/15 - 8/15	500 LV	4.5	43	45	Romney +2
+Purple Strategies	8/13 - 8/14	600 LV	4.0	47	48	Romney +1
+CBS/NYT/Quinnipiac	7/24 - 7/30	1177 LV	3.0	51	45	Obama +6
+PPP (D)	7/26 - 7/29	871 LV	3.3	48	47	Obama +1
+SurveyUSA	7/17 - 7/19	647 LV	3.9	48	43	Obama +5
+Purple Strategies	7/9 - 7/13	600 LV	4.0	45	48	Romney +3
+Mason-Dixon*	7/9 - 7/11	800 LV	3.5	46	45	Obama +1
+Rasmussen Reports	7/9 - 7/9	500 LV	4.5	45	46	Romney +1
+WeAskAmerica	7/1 - 7/2	1127 LV	2.9	46	45	Obama +1
+Quinnipiac	6/19 - 6/25	1200 RV	2.8	45	41	Obama +4
+Quinnipiac	6/12 - 6/18	1697 RV	2.4	46	42	Obama +4
+Purple Strategies	5/31 - 6/5	600 LV	4.0	45	49	Romney +4
+PPP (D)	5/31 - 6/3	642 RV	3.9	50	46	Obama +4
+NBC News/Marist	5/17 - 5/20	1078 RV	3.0	48	44	Obama +4
+Quinnipiac	5/15 - 5/21	1722 RV	2.4	41	47	Romney +6
+Suffolk/WSVN	5/6 - 5/8	600 LV	4.0	46	45	Obama +1
+Quinnipiac	4/25 - 5/1	1169 RV	2.9	43	44	Romney +1
+Rasmussen Reports	4/25 - 4/25	500 LV	4.5	45	46	Romney +1
+Purple Strategies	4/19 - 4/23	600 LV	4.1	44	47	Romney +3
+FOX News	4/15 - 4/17	757 RV	4.0	45	43	Obama +2
+PPP (D)	4/12 - 4/15	700 RV	3.7	50	45	Obama +5
+Quinnipiac	3/20 - 3/26	1228 RV	2.8	49	42	Obama +7
+Rasmussen Reports	3/13 - 3/13	500 LV	4.5	46	43	Obama +3
+Rasmussen Reports	2/9 - 2/9	500 LV	4.5	47	44	Obama +3
+NBC News/Marist	1/25 - 1/27	1379 RV	2.6	49	41	Obama +8
+Miami Herald/Mason-Dixon	1/24 - 1/26	800 LV	3.5	44	48	Romney +4
+Suffolk/WSVN	1/22 - 1/24	600 LV	4.0	42	47	Romney +5
+Quinnipiac	1/19 - 1/23	1518 RV	2.5	45	45	Tie
+Quinnipiac	1/4 - 1/8	1412 RV	2.6	43	46	Romney +3
+NBC News/Marist	12/4 - 12/7	2119 RV	2.1	48	41	Obama +7
+Quinnipiac	11/28 - 12/5	1226 RV	2.8	42	45	Romney +3
+PPP (D)	11/28 - 12/1	700 RV	3.7	45	44	Obama +1
+Rasmussen Reports	11/17 - 11/17	500 LV	4.5	42	46	Romney +4
+Quinnipiac	10/31 - 11/7	1185 RV	2.9	42	45	Romney +3
+Suffolk University	10/26 - 10/30	800 RV	3.5	42	42	Tie
+NBC News/Marist	10/10 - 10/12	2225 RV	2.1	45	43	Obama +2
+PPP (D)	9/22 - 9/25	476 RV	4.5	46	45	Obama +1
+Quinnipiac	9/14 - 9/19	1007 RV	3.1	40	47	Romney +7
+Mason-Dixon	8/18 - 8/22	625 RV	4.0	43	51	Romney +8
+Magellan Strategies (R)	8/16 - 8/18	723 LV	3.6	39	49	Romney +10
+AIF/McLaughlin (R)	8/8 - 8/9	600 LV	4.0	44	45	Romney +1
+Quinnipiac	8/1 - 8/2	743 RV	3.6	44	44	Tie
+Quinnipiac	7/27 - 7/31	674 RV	3.8	46	41	Obama +5
+Sunshine State News/VSS	7/5 - 7/7	1000 LV	3.1	42	46	Romney +4
+PPP (D)	6/16 - 6/19	848 RV	3.4	47	43	Obama +4
+Suffolk University	4/10 - 4/12	600 RV	4.0	42	43	Romney +1
+Mason-Dixon	4/4 - 4/7	800 RV	3.5	43	48	Romney +5
+PPP (D)	3/24 - 3/27	500 RV	4.4	46	44	Obama +2
+PPP (D)	12/17 - 12/20	1034 RV	3.0	46	44	Obama +2

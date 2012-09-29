@@ -1,0 +1,31 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/18 - 9/27	--	--	48.7	45.7	Obama +3.0
+ARG	9/25 - 9/27	600 LV	4.0	50	45	Obama +5
+NBC/WSJ/Marist	9/23 - 9/25	1012 LV	3.1	51	44	Obama +7
+Rasmussen Reports	9/18 - 9/18	500 LV	4.5	45	48	Romney +3
+ARG	9/15 - 9/17	463 LV	4.5	48	47	Obama +1
+WMUR/UNH	9/4 - 9/10	592 LV	4.0	45	40	Obama +5
+PPP (D)	8/9 - 8/12	1055 LV	3.0	51	45	Obama +6
+WMUR/UNH	8/1 - 8/12	555 LV	4.2	49	46	Obama +3
+WMUR/UNH	7/5 - 7/15	470 LV	4.5	49	45	Obama +4
+NBC News/Marist	6/24 - 6/25	1029 RV	3.1	45	45	Tie
+ARG	6/21 - 6/24	417 LV	4.2	49	46	Obama +3
+Rasmussen Reports	6/20 - 6/20	500 LV	4.5	48	43	Obama +5
+PPP (D)	5/10 - 5/13	1163 RV	2.9	53	41	Obama +12
+WMUR/UNH	4/9 - 4/20	486 LV	4.4	51	42	Obama +9
+Dartmouth	4/2 - 4/5	403 RV	4.9	42	44	Romney +2
+ARG	3/15 - 3/18	557 RV	4.2	48	41	Obama +7
+WMUR/UNH	1/25 - 2/2	495 LV	4.4	50	40	Obama +10
+NBC News/Marist	11/28 - 11/30	1116 RV	2.9	43	46	Romney +3
+WMUR/UNH	11/15 - 11/20	606 LV	4.0	44	47	Romney +3
+Bloomberg News	11/10 - 11/11	324 LV	5.5	40	50	Romney +10
+NBC News/Marist	10/3 - 10/5	2218 RV	2.1	40	49	Romney +9
+Mason-Dixon	10/2 - 10/6	600 LV	4.0	41	52	Romney +11
+WMUR/UNH	9/26 - 10/6	559 LV	4.1	42	50	Romney +8
+PPP (D)	6/30 - 7/5	662 RV	3.8	44	46	Romney +2
+WMUR/UNH	6/21 - 7/1	729 LV	3.5	43	47	Romney +4
+WMUR/UNH	4/15 - 4/26	471 LV	4.4	43	50	Romney +7
+Dartmouth	4/11 - 4/14	426 RV	4.8	39	47	Romney +8
+PPP (D)	3/31 - 4/3	769 RV	3.5	47	46	Obama +1
+Magellan Strategies (R)	2/9 - 2/10	789 LV	3.5	48	44	Obama +4
+WMUR/UNH	1/28 - 2/7	757 A	3.5	41	49	Romney +8

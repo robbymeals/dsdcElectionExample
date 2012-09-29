@@ -1,0 +1,43 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/11 - 9/23	--	--	51.5	43.7	Obama +7.8
+WeAskAmerica*	9/20 - 9/23	1238 LV	2.8	53	41	Obama +12
+PPP (D)	9/18 - 9/19	842 LV	3.4	52	45	Obama +7
+Rasmussen Reports	9/17 - 9/17	500 LV	4.5	49	46	Obama +3
+NBC/WSJ/Marist	9/16 - 9/18	968 LV	3.2	50	45	Obama +5
+Marquette University	9/13 - 9/16	601 LV	4.1	54	40	Obama +14
+CBS/NYT/Quinnipiac	9/11 - 9/17	1485 LV	3.0	51	45	Obama +6
+CBS/NYT/Quinnipiac	8/15 - 8/21	1190 LV	3.0	49	47	Obama +2
+Marquette University	8/16 - 8/19	576 LV	4.2	49	46	Obama +3
+PPP (D)	8/16 - 8/19	1308 LV	2.7	47	48	Romney +1
+Rasmussen Reports	8/15 - 8/15	500 LV	4.5	47	48	Romney +1
+CNN/Opinion Research	8/13 - 8/14	920 RV	3.0	49	45	Obama +4
+CBS/NYT/Quinnipiac	7/31 - 8/6	1428 LV	3.0	51	45	Obama +6
+Marquette University	8/2 - 8/5	1188 LV	2.9	50	45	Obama +5
+Rasmussen Reports	7/25 - 7/25	500 LV	4.5	49	46	Obama +3
+WeAskAmerica	7/17 - 7/18	1162 LV	2.9	49	42	Obama +7
+Marquette University	7/5 - 7/8	810 LV	3.5	51	43	Obama +8
+PPP (D)	7/5 - 7/8	1057 RV	3.3	50	44	Obama +6
+Marquette University	6/13 - 6/16	594 LV	4.1	49	43	Obama +6
+Rasmussen Reports	6/12 - 6/12	500 LV	4.5	44	47	Romney +3
+WeAskAmerica	6/6 - 6/6	1270 LV	2.8	48	43	Obama +5
+Marquette University	5/23 - 5/26	600 LV	4.1	51	43	Obama +8
+WPR/St. Norbert	5/17 - 5/22	406 LV	5.0	49	43	Obama +6
+Daily Kos/PPP (D)	5/11 - 5/13	LV	--	47	46	Obama +1
+Marquette University	5/9 - 5/12	600 LV	4.1	46	46	Tie
+Rasmussen Reports	5/9 - 5/9	500 LV	4.5	49	45	Obama +4
+Marquette University	4/26 - 4/29	705 RV	3.8	51	42	Obama +9
+Daily Kos/PPP (D)	4/13 - 4/15	1136 LV	2.9	50	44	Obama +6
+Rasmussen Reports	3/27 - 3/27	500 LV	4.5	52	41	Obama +11
+NBC News/Marist	3/26 - 3/27	1391 RV	2.6	52	35	Obama +17
+Marquette University	3/22 - 3/25	707 RV	3.8	48	43	Obama +5
+Rasmussen Reports	2/27 - 2/27	500 LV	4.5	47	42	Obama +5
+PPP (D)	2/23 - 2/26	900 RV	3.3	53	39	Obama +14
+Marquette University	2/16 - 2/19	716 RV	3.7	53	38	Obama +15
+Marquette University	1/19 - 1/22	701 RV	3.8	48	40	Obama +8
+Rasmussen Reports	10/26 - 10/26	500 LV	4.5	45	41	Obama +4
+WPRI	10/23 - 10/26	605 A	4.0	46	35	Obama +11
+PPP (D)	10/20 - 10/23	1170 RV	2.9	46	43	Obama +3
+PPP (D)	8/19 - 8/21	830 RV	3.4	47	42	Obama +5
+PPP (D)	5/19 - 5/22	1636 RV	2.4	51	39	Obama +12
+PPP (D)	2/24 - 2/27	768 RV	3.5	48	38	Obama +10
+PPP (D)	12/10 - 12/12	702 RV	3.7	46	42	Obama +4

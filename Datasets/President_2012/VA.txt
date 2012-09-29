@@ -1,0 +1,53 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/11 - 9/27	--	--	48.7	45.0	Obama +3.7
+ARG	9/24 - 9/27	600 LV	4.0	49	47	Obama +2
+Suffolk/WWBT	9/24 - 9/26	600 LV	4.0	46	44	Obama +2
+Purple Strategies	9/15 - 9/19	600 LV	4.0	46	43	Obama +3
+WeAskAmerica	9/17 - 9/17	1238 LV	2.8	49	46	Obama +3
+FOX News	9/16 - 9/18	1006 LV	3.0	50	43	Obama +7
+PPP (D)	9/13 - 9/16	1021 LV	3.1	51	46	Obama +5
+CBS/NYT/Quinnipiac	9/11 - 9/17	1474 LV	3.0	50	46	Obama +4
+Rasmussen Reports	9/13 - 9/13	500 LV	4.5	49	48	Obama +1
+Washington Post	9/12 - 9/16	847 LV	4.0	52	44	Obama +8
+NBC/WSJ/Marist	9/9 - 9/11	996 LV	3.1	49	44	Obama +5
+Gravis Marketing	9/8 - 9/9	2238 LV	2.2	44	49	Romney +5
+Rasmussen Reports	8/23 - 8/23	500 LV	4.5	47	47	Tie
+PPP (D)	8/16 - 8/19	855 LV	3.4	50	45	Obama +5
+Purple Strategies	8/13 - 8/14	600 LV	4.0	45	48	Romney +3
+Rasmussen Reports	8/7 - 8/7	500 LV	4.5	48	46	Obama +2
+CBS/NYT/Quinnipiac	7/31 - 8/6	1412 LV	3.0	49	45	Obama +4
+Rasmussen Reports	7/16 - 7/17	500 LV	4.5	47	46	Obama +1
+Quinnipiac	7/10 - 7/16	1673 RV	2.4	44	44	Tie
+Purple Strategies	7/9 - 7/13	600 LV	4.0	46	44	Obama +2
+PPP (D)	7/5 - 7/8	647 RV	3.9	50	42	Obama +8
+WeAskAmerica	6/25 - 6/25	1106 LV	3.0	43	48	Romney +5
+Rasmussen Reports	6/3 - 6/3	500 LV	4.5	47	47	Tie
+Purple Strategies	5/31 - 6/5	600 LV	4.0	49	46	Obama +3
+Quinnipiac	5/30 - 6/4	1282 RV	2.7	47	42	Obama +5
+Virginian-Pilot/ODU	5/16 - 6/15	776 RV	3.5	49	42	Obama +7
+NBC News/Marist	5/17 - 5/20	1076 RV	3.0	48	44	Obama +4
+Washington Post	4/28 - 5/2	964 RV	4.0	51	44	Obama +7
+PPP (D)	4/26 - 4/29	680 RV	3.8	51	43	Obama +8
+Rasmussen Reports	4/23 - 4/23	500 LV	4.5	44	45	Romney +1
+Purple Strategies	4/19 - 4/23	600 LV	4.1	48	46	Obama +2
+Roanoke College	3/26 - 4/5	537 RV	4.2	41	46	Romney +5
+Rasmussen Reports	3/20 - 3/20	500 LV	4.5	51	42	Obama +9
+Quinnipiac	3/13 - 3/18	1034 RV	3.1	50	42	Obama +8
+NBC News/Marist	2/29 - 3/2	1273 RV	2.8	52	35	Obama +17
+Roanoke College	2/13 - 2/26	607 A	4.0	42	43	Romney +1
+Rasmussen Reports	2/21 - 2/21	500 LV	4.5	49	43	Obama +6
+CNU/Times-Dispatch	2/4 - 2/13	1018 RV	3.1	43	46	Romney +3
+Quinnipiac	2/1 - 2/6	1544 RV	2.5	47	43	Obama +4
+Mason-Dixon	1/16 - 1/18	625 LV	3.9	45	44	Obama +1
+Quinnipiac	12/13 - 12/19	1135 RV	2.9	42	44	Romney +2
+PPP (D)	12/11 - 12/13	600 RV	4.0	48	42	Obama +6
+Quinnipiac	10/3 - 10/9	1459 RV	2.6	44	45	Romney +1
+CNU/Times-Dispatch	10/3 - 10/8	1027 RV	3.1	42	46	Romney +4
+Rasmussen Reports	9/28 - 9/28	500 LV	4.5	45	46	Romney +1
+Roanoke College	9/6 - 9/17	601 LV	4.0	37	45	Romney +8
+Quinnipiac	9/7 - 9/12	1368 RV	2.7	42	44	Romney +2
+PPP (D)	7/21 - 7/24	500 RV	4.4	47	43	Obama +4
+PPP (D)	5/5 - 5/8	547 RV	4.2	51	40	Obama +11
+Washington Post	4/28 - 5/4	1040 RV	3.5	50	44	Obama +6
+PPP (D)	2/24 - 2/27	524 RV	3.5	48	42	Obama +6
+PPP (D)	11/10 - 11/13	551 RV	4.2	48	43	Obama +5

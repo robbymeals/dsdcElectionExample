@@ -1,0 +1,14 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/6 - 9/19	--	--	49.7	41.3	Obama +8.4
+Star Tribune/Mason-Dixon*	9/17 - 9/19	800 LV	3.5	48	40	Obama +8
+PPP (D)	9/10 - 9/11	824 LV	3.4	51	44	Obama +7
+KSTP/SurveyUSA	9/6 - 9/9	551 LV	4.3	50	40	Obama +10
+KSTP/SurveyUSA	7/17 - 7/19	552 LV	4.3	46	40	Obama +6
+PPP (D)	5/31 - 6/3	973 RV	3.1	54	39	Obama +15
+KSTP/SurveyUSA	5/9 - 5/10	516 RV	4.4	52	38	Obama +14
+KSTP/SurveyUSA	1/31 - 2/2	542 RV	4.3	49	36	Obama +13
+PPP (D)	1/21 - 1/22	1236 RV	2.8	51	41	Obama +10
+KSTP/SurveyUSA	11/2 - 11/6	543 RV	4.3	45	39	Obama +6
+St. Cloud State U.	10/17 - 10/26	626 A	5.0	45	39	Obama +6
+PPP (D)	5/27 - 5/30	1179 RV	2.9	51	36	Obama +15
+PPP (D)	12/4 - 12/5	949 RV	3.2	47	42	Obama +5

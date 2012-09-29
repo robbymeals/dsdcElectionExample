@@ -1,0 +1,85 @@
+Poll	Date	Sample	MoE	Obama (D)	McCain (R)	Spread
+Final Results	--	--	--	54.5	44.2	Obama +10.3
+RCP Average	10/27 - 11/3	--	--	51.0	43.7	Obama +7.3
+SurveyUSA	10/31 - 11/3	657 LV	3.9	52	43	Obama +9
+Reuters/Zogby	10/31 - 11/3	682 LV	4.1	51	41	Obama +10
+Rasmussen	11/1 - 11/1	700 LV	4.0	52	46	Obama +6
+Strategic Vision (R)	10/31 - 11/2	1200 LV	3.0	51	44	Obama +7
+PPP (D)	10/31 - 11/2	1529 LV	2.5	53	45	Obama +8
+Morning Call	10/29 - 11/2	617 LV	4.0	52	46	Obama +6
+SurveyUSA	10/29 - 10/31	700 LV	3.8	51	44	Obama +7
+ARG	10/29 - 10/31	600 LV	4.0	51	45	Obama +6
+Quinnipiac	10/27 - 11/2	1493 LV	2.5	52	42	Obama +10
+Strategic Vision (R)	10/27 - 10/29	1200 LV	3.0	49	44	Obama +5
+NBC/Mason-Dixon	10/27 - 10/28	625 LV	4.0	47	43	Obama +4
+Rasmussen	10/27 - 10/27	500 LV	4.5	53	46	Obama +7
+Marist	10/26 - 10/27	713 LV	4.0	55	41	Obama +14
+InAdv/PollPosition	10/26 - 10/26	588 LV	3.8	51	42	Obama +9
+CNN/Time	10/23 - 10/28	768 LV	3.5	55	43	Obama +12
+Quinnipiac	10/22 - 10/26	1364 LV	2.7	53	41	Obama +12
+Associated Press/GfK	10/22 - 10/26	607 LV	4.0	52	40	Obama +12
+Franklin & Marshall	10/21 - 10/26	LV	4.2	53	40	Obama +13
+Temple Univ.	10/20 - 10/26	761 LV	3.6	50	41	Obama +9
+SurveyUSA	10/21 - 10/22	620 LV	4.0	53	41	Obama +12
+Morning Call	10/19 - 10/23	608 LV	4.0	52	40	Obama +12
+Strategic Vision (R)	10/20 - 10/22	1200 LV	3.0	50	43	Obama +7
+Big10 Battleground	10/19 - 10/22	566 LV	4.2	52	41	Obama +11
+Quinnipiac	10/16 - 10/21	1425 LV	2.6	53	40	Obama +13
+Morning Call	10/16 - 10/20	600 LV	4.0	53	41	Obama +12
+National Journal/FD	10/16 - 10/20	412 RV	4.9	51	41	Obama +10
+Susquehanna	10/16 - 10/18	700 LV	3.7	48	40	Obama +8
+SurveyUSA	10/11 - 10/13	516 LV	4.4	55	40	Obama +15
+Morning Call	10/10 - 10/14	584 LV	4.0	52	38	Obama +14
+Marist	10/5 - 10/8	757 LV	3.5	53	41	Obama +12
+Strategic Vision (R)	10/5 - 10/7	1200 LV	3.0	54	40	Obama +14
+Rasmussen	10/6 - 10/6	700 LV	4.0	54	41	Obama +13
+SurveyUSA	10/5 - 10/6	653 LV	3.9	55	40	Obama +15
+Morning Call	9/26 - 9/30	598 LV	4.0	48	41	Obama +7
+Quinnipiac	9/27 - 9/29	832 LV	3.4	54	39	Obama +15
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	50	42	Obama +8
+Franklin & Marshall	9/23 - 9/28	767 RV	3.5	45	38	Obama +7
+Morning Call	9/21 - 9/25	577 LV	4.5	47	43	Obama +4
+Rasmussen	9/24 - 9/24	500 LV	4.0	49	45	Obama +4
+SurveyUSA	9/23 - 9/24	1094 LV	3.0	50	44	Obama +6
+Strategic Vision (R)	9/21 - 9/23	1200 LV	3.0	47	46	Obama +1
+CNN/Time	9/21 - 9/23	730 LV	3.5	53	44	Obama +9
+National Journal/FD	9/18 - 9/22	406 RV	4.9	43	41	Obama +2
+FOX News/Rasmussen	9/21 - 9/21	500 LV	4.5	48	45	Obama +3
+NBC/Mason-Dixon	9/16 - 9/18	625 LV	4.0	46	44	Obama +2
+Big10 Battleground	9/14 - 9/17	600 RV	4.0	45	45	Tie
+Marist	9/11 - 9/15	535 LV	3.5	49	44	Obama +5
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	47	47	Tie
+Quinnipiac	9/5 - 9/9	1001 LV	3.1	48	45	Obama +3
+FOX News/Rasmussen	9/7 - 9/7	500 LV	4.5	47	45	Obama +2
+Strategic Vision (R)	9/5 - 9/7	1200 LV	3.0	47	45	Obama +2
+CNN/Time	8/24 - 8/26	669 RV	4.0	48	43	Obama +5
+Quinnipiac	8/17 - 8/24	1234 LV	2.8	49	42	Obama +7
+Rasmussen	8/19 - 8/19	700 LV	4.0	48	45	Obama +3
+Susquehanna	8/11 - 8/14	700 LV	--	46	41	Obama +5
+Franklin & Marshall	8/4 - 8/9	370 LV	--	46	41	Obama +5
+Quinnipiac	7/23 - 7/29	1317 LV	2.7	49	42	Obama +7
+Strategic Vision (R)	7/25 - 7/27	1200 LV	3.0	49	40	Obama +9
+Rasmussen	7/23 - 7/23	700 LV	4.0	51	45	Obama +6
+Rasmussen	6/22 - 6/22	1000 LV	3.0	46	42	Obama +4
+Franklin & Marshall	6/16 - 6/22	1501 RV	2.5	42	36	Obama +6
+Quinnipiac	6/9 - 6/16	1511 LV	2.5	52	40	Obama +12
+Rasmussen	5/21 - 5/21	500 LV	--	45	43	Obama +2
+Quinnipiac	5/13 - 5/20	1667 RV	2.4	46	40	Obama +6
+SurveyUSA	5/16 - 5/18	600 RV	--	48	40	Obama +8
+Susquehanna	5/1 - 5/6	800 LV	--	46	39	Obama +7
+Quinnipiac	4/23 - 4/29	1494 RV	--	47	38	Obama +9
+Rasmussen	4/24 - 4/24	500 LV	--	43	44	McCain +1
+Strategic Vision (R)	4/11 - 4/13	1200 LV	--	39	49	McCain +10
+Rasmussen	4/9 - 4/9	500 LV	--	47	39	Obama +8
+Temple Univ.	3/27 - 4/9	1175 RV	--	47	40	Obama +7
+Strategic Vision (R)	3/28 - 3/31	1200 LV	--	42	47	McCain +5
+Quinnipiac	3/24 - 3/31	3484 RV	--	43	39	Obama +4
+Rasmussen	3/10 - 3/10	500 LV	--	43	44	McCain +1
+Susquehanna	3/5 - 3/10	700 RV	--	41	45	McCain +4
+Strategic Vision (R)	3/7 - 3/9	1,200 LV	--	44	47	McCain +3
+SurveyUSA	2/26 - 2/28	608 RV	--	42	47	McCain +5
+Quinnipiac	2/21 - 2/25	1872 RV	--	42	40	Obama +2
+Franklin & Marshall	2/13 - 2/18	640 RV	--	43	44	McCain +1
+Morning Call	2/9 - 2/17	588 RV	--	39	42	McCain +3
+Rasmussen	2/14 - 2/14	500 LV	--	49	39	Obama +10
+Quinnipiac	2/6 - 2/12	1419 LV	--	42	41	Obama +1

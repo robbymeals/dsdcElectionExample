@@ -1,0 +1,54 @@
+Poll	Date	Sample	MoE	Obama (D)	McCain (R)	Spread
+Final Results	--	--	--	53.7	44.7	Obama +9.0
+RCP Average	10/27 - 11/2	--	--	50.8	45.3	Obama +5.5
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	51	47	Obama +4
+Denver Post/Mason-Dixon	10/28 - 10/29	625 LV	4.0	49	44	Obama +5
+ARG	10/28 - 10/30	600 LV	4.0	52	45	Obama +7
+PPP (D)	10/28 - 10/30	2023 LV	2.2	54	44	Obama +10
+Marist	10/27 - 10/28	682 LV	4.0	51	45	Obama +6
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	50	46	Obama +4
+Politico/InAdv	10/26 - 10/26	636 LV	3.8	53	45	Obama +8
+CNN/Time	10/23 - 10/28	774 LV	3.5	53	45	Obama +8
+National Journal/FD	10/23 - 10/27	409 RV	4.9	48	44	Obama +4
+Associated Press/GfK	10/22 - 10/26	626 LV	3.9	50	41	Obama +9
+Rocky Mtn News/CBS4	10/21 - 10/23	500 LV	4.4	52	40	Obama +12
+InAdv/PollPosition	10/20 - 10/20	576 LV	4.0	51	46	Obama +5
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	51	46	Obama +5
+Rasmussen	10/16 - 10/16	700 LV	4.0	52	45	Obama +7
+CNN/Time	10/11 - 10/14	762 LV	3.5	51	47	Obama +4
+Suffolk	10/10 - 10/13	600 LV	4.0	47	43	Obama +4
+Quinnipiac/WSJ/WP	10/8 - 10/12	1088 LV	3.0	52	43	Obama +9
+PPP (D)	10/8 - 10/10	1331 LV	2.7	52	42	Obama +10
+InAdv/PollPosition	10/6 - 10/6	485 LV	5.0	51	45	Obama +6
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	51	45	Obama +6
+Denver Post/Mason-Dixon	9/29 - 10/1	625 LV	4.0	44	44	Tie
+FOX News/Rasmussen	9/28 - 9/28	500 LV	4.5	49	48	Obama +1
+InAdv/PollPosition	9/23 - 9/23	505 LV	4.3	50	41	Obama +9
+CNN/Time	9/21 - 9/23	794 LV	3.5	51	47	Obama +4
+Ciruli Assoc.	9/19 - 9/23	501 LV	4.4	44	43	Obama +1
+Rasmussen	9/23 - 9/23	700 LV	4.0	50	47	Obama +3
+PPP (D)	9/20 - 9/21	1084 LV	3.0	51	44	Obama +7
+Quinnipiac/WSJ/WP	9/14 - 9/21	1418 LV	2.6	49	45	Obama +4
+InAdv/PollPosition	9/17 - 9/17	508 LV	4.3	51	41	Obama +10
+FOX News/Rasmussen	9/14 - 9/14	500 LV	4.5	46	48	McCain +2
+National Journal/FD	9/11 - 9/15	400 RV	4.9	45	44	Obama +1
+InAdv/PollPosition	9/10 - 9/10	501 LV	4.3	49	46	Obama +3
+PPP (D)	9/7 - 9/9	1078 LV	3.0	47	46	Obama +1
+FOX News/Rasmussen	9/7 - 9/7	500 LV	4.5	49	46	Obama +3
+CNN/Time	8/24 - 8/26	670 RV	3.5	46	47	McCain +1
+Suffolk	8/21 - 8/24	450 LV	4.6	44	39	Obama +5
+Quinnipiac	8/15 - 8/21	1060 LV	3.0	46	47	McCain +1
+Mason-Dixon	8/13 - 8/15	400 LV	5.0	46	43	Obama +3
+Rocky Mtn News/CBS4	8/11 - 8/13	500 RV	4.4	41	44	McCain +3
+Rasmussen	8/13 - 8/13	700 LV	4.0	48	49	McCain +1
+PPP (D)	8/5 - 8/7	933 LV	--	48	44	Obama +4
+Quinnipiac/WSJ/WP	7/14 - 7/22	1425 LV	--	44	46	McCain +2
+Rasmussen	7/21 - 7/21	500 LV	--	50	47	Obama +3
+PPP (D)	7/9 - 7/10	1050 LV	--	47	43	Obama +4
+Quinnipiac/WSJ/WP	6/17 - 6/24	1351 LV	--	49	44	Obama +5
+Rasmussen	6/17 - 6/17	500 LV	--	43	41	Obama +2
+Rasmussen	5/19 - 5/19	500 LV	--	48	42	Obama +6
+Rasmussen	4/16 - 4/16	500 LV	--	46	43	Obama +3
+Rasmussen	3/17 - 3/17	500 LV	--	46	46	Tie
+SurveyUSA	2/26 - 2/28	630 RV	--	50	41	Obama +9
+Rasmussen	2/11 - 2/11	500 LV	--	46	39	Obama +7

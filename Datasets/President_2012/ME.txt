@@ -1,0 +1,13 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/15 - 9/25	--	--	53.7	38.7	Obama +15.0
+Rasmussen Reports	9/25 - 9/25	500 LV	4.5	52	40	Obama +12
+PPP (D)	9/17 - 9/18	804 LV	3.5	55	39	Obama +16
+MPRC (D)*	9/15 - 9/17	856 LV	3.4	54	37	Obama +17
+Critical Insights	6/20 - 6/25	615 RV	4.0	49	35	Obama +14
+WBUR/MassINC	6/13 - 6/14	506 LV	4.4	48	34	Obama +14
+Critical Insights	5/2 - 5/7	600 RV	4.0	50	42	Obama +8
+MPRC (D)	3/31 - 4/2	993 LV	3.1	55	37	Obama +18
+PPP (D)	3/2 - 3/4	1256 RV	2.8	58	35	Obama +23
+PPP (D)	10/28 - 10/31	673 RV	3.8	49	38	Obama +11
+Critical Insights	10/18 - 10/23	600 LV	4.0	41	40	Obama +1
+PPP (D)	3/3 - 3/6	1247 RV	2.8	49	41	Obama +8

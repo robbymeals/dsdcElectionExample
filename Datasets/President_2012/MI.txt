@@ -1,0 +1,40 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/10 - 9/22	--	--	51.2	42.4	Obama +8.8
+Gravis Marketing	9/21 - 9/22	804 LV	3.3	50	46	Obama +4
+Rasmussen Reports	9/20 - 9/20	500 LV	4.5	54	42	Obama +12
+Detroit News	9/15 - 9/17	600 LV	4.0	52	38	Obama +14
+CNN/Opinion Research	9/14 - 9/18	754 LV	3.5	52	44	Obama +8
+MRG	9/10 - 9/15	600 LV	4.0	48	42	Obama +6
+Baydoun/Foster (D)	9/12 - 9/12	1156 LV	2.9	46	44	Obama +2
+EPIC-MRA	9/8 - 9/11	600 LV	4.5	47	37	Obama +10
+PPP (D)	8/31 - 9/2	1001 LV	3.4	51	44	Obama +7
+EPIC-MRA	8/28 - 8/28	1200 LV	2.6	49	46	Obama +3
+Mitchell Research	8/23 - 8/23	1277 LV	2.7	47	47	Tie
+Detroit News	8/18 - 8/20	600 LV	4.0	48	42	Obama +6
+Baydoun/Foster (D)	8/16 - 8/16	1733 LV	2.4	44	48	Romney +4
+Mitchell Research	8/13 - 8/13	1079 LV	3.0	49	44	Obama +5
+EPIC-MRA	7/24 - 7/31	600 LV	4.0	48	42	Obama +6
+Rasmussen Reports	7/23 - 7/23	500 LV	4.5	48	42	Obama +6
+Mitchell Research	7/23 - 7/23	825 LV	3.4	44	45	Romney +1
+PPP (D)	7/21 - 7/23	579 RV	4.1	53	39	Obama +14
+NBC News/Marist	6/24 - 6/25	1078 RV	3.0	47	43	Obama +4
+Mitchell Research	6/18 - 6/18	750 LV	3.6	47	46	Obama +1
+WeAskAmerica	6/18 - 6/18	1010 LV	3.1	43	45	Romney +2
+Rasmussen Reports	6/14 - 6/14	500 LV	4.5	50	42	Obama +8
+Baydoun/Foster (D)	6/12 - 6/12	1783 LV	2.3	47	46	Obama +1
+EPIC-MRA	6/2 - 6/5	600 LV	4.0	45	46	Romney +1
+PPP (D)	5/24 - 5/27	500 RV	4.4	53	39	Obama +14
+Glengariff Group (R)	5/10 - 5/11	600 LV	4.0	45	40	Obama +5
+EPIC-MRA	3/31 - 4/3	600 LV	4.0	47	43	Obama +4
+MRG	3/14 - 3/19	600 LV	4.0	49	42	Obama +7
+NBC News/Marist	2/19 - 2/20	1546 RV	2.5	51	33	Obama +18
+PPP (D)	2/10 - 2/12	560 RV	4.1	54	38	Obama +16
+EPIC-MRA	1/21 - 1/25	600 LV	4.0	48	40	Obama +8
+EPIC-MRA	11/13 - 11/16	600 LV	4.0	41	46	Romney +5
+SurveyUSA	10/12 - 10/14	500 RV	4.5	50	39	Obama +11
+Inside MI Politcs/MRG	9/14 - 9/19	600 LV	4.0	44	44	Tie
+PPP (D)	7/21 - 7/24	593 RV	4.0	47	42	Obama +5
+EPIC-MRA	7/9 - 7/11	600 LV	4.0	42	46	Romney +4
+PPP (D)	3/18 - 3/20	502 RV	4.4	48	41	Obama +7
+EPIC-MRA	2/12 - 2/17	600 LV	4.0	41	46	Romney +5
+PPP (D)	12/3 - 12/6	1224 RV	2.8	47	43	Obama +4

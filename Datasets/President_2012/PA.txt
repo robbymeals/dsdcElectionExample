@@ -1,0 +1,47 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	9/12 - 9/26	--	--	49.9	41.9	Obama +8.0
+Morning Call	9/22 - 9/26	427 LV	5.0	49	42	Obama +7
+CBS/NYT/Quinnipiac	9/18 - 9/24	1162 LV	3.0	54	42	Obama +12
+Franklin & Marshall	9/18 - 9/23	392 LV	4.9	52	43	Obama +9
+Tribune-Review/Susquehanna	9/18 - 9/20	800 LV	3.5	47	45	Obama +2
+Rasmussen Reports	9/19 - 9/19	500 LV	4.5	51	39	Obama +12
+WeAskAmerica	9/18 - 9/18	1214 LV	2.9	48	42	Obama +6
+Mercyhurst University	9/12 - 9/20	522 LV	4.3	48	40	Obama +8
+Morning Call	9/10 - 9/16	640 LV	4.0	50	41	Obama +9
+Philadelphia Inquirer	9/9 - 9/12	600 LV	4.0	50	39	Obama +11
+Philadelphia Inquirer	8/21 - 8/23	601 LV	4.0	51	42	Obama +9
+Morning Call	8/20 - 8/22	422 LV	5.0	49	40	Obama +9
+Franklin & Marshall	8/7 - 8/12	681 RV	3.8	47	42	Obama +5
+CBS/NYT/Quinnipiac	7/24 - 7/30	1168 LV	3.0	53	42	Obama +11
+PPP (D)	7/21 - 7/23	758 RV	3.6	49	43	Obama +6
+Rasmussen Reports	7/18 - 7/18	500 LV	4.5	48	44	Obama +4
+WeAskAmerica	7/9 - 7/10	1227 LV	2.8	47	40	Obama +7
+Quinnipiac	6/19 - 6/25	1252 RV	2.8	45	39	Obama +6
+Quinnipiac	6/5 - 6/10	997 RV	3.1	46	40	Obama +6
+Franklin & Marshall	5/29 - 6/4	412 RV	4.8	48	36	Obama +12
+Rasmussen Reports	5/21 - 5/21	500 LV	4.5	47	41	Obama +6
+PPP (D)	5/17 - 5/20	671 RV	3.8	50	42	Obama +8
+Quinnipiac	4/25 - 5/1	1168 RV	2.9	47	39	Obama +8
+Morning Call	3/23 - 4/1	492 RV	5.0	45	40	Obama +5
+Quinnipiac	3/20 - 3/26	1232 RV	2.8	45	42	Obama +3
+Quinnipiac	3/7 - 3/12	1256 RV	2.8	46	40	Obama +6
+PPP (D)	3/8 - 3/11	689 RV	3.7	49	42	Obama +7
+Morning Call	2/15 - 2/21	625 RV	4.0	48	37	Obama +11
+Franklin & Marshall	2/14 - 2/20	592 RV	4.0	41	33	Obama +8
+Rasmussen Reports	2/8 - 2/23	438 LV	4.5	45	44	Obama +1
+Tribune-Review/Susquehanna	2/2 - 2/6	800 RV	3.5	43	45	Romney +2
+Morning Call	11/28 - 12/7	422 RV	5.0	45	41	Obama +4
+Quinnipiac	11/28 - 12/5	1453 RV	2.6	46	43	Obama +3
+PPP (D)	11/17 - 11/20	500 RV	4.4	45	45	Tie
+SurveyUSA	11/10 - 11/10	800 A	3.5	44	44	Tie
+Quinnipiac	10/31 - 11/7	1436 RV	2.6	44	43	Obama +1
+Franklin & Marshall	10/24 - 10/30	419 RV	4.8	35	26	Obama +9
+Quinnipiac	9/21 - 9/26	1370 RV	2.7	45	43	Obama +2
+Magellan Strategies (R)	9/12 - 9/14	702 LV	3.7	50	40	Obama +10
+Franklin & Marshall	8/22 - 8/29	407 RV	4.9	36	30	Obama +6
+Quinnipiac	7/25 - 7/31	1358 RV	2.7	42	44	Romney +2
+PPP (D)	6/30 - 7/5	545 RV	4.2	44	44	Tie
+Quinnipiac	6/7 - 6/12	1277 RV	2.7	47	40	Obama +7
+PPP (D)	4/7 - 4/10	593 RV	4.0	42	43	Romney +1
+Morning Call	2/9 - 2/28	395 RV	5.5	43	36	Obama +7
+PPP (D)	1/3 - 1/5	547 RV	4.2	46	42	Obama +4

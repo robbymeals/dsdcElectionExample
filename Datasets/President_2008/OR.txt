@@ -1,0 +1,33 @@
+Poll	Date	Sample	MoE	Obama (D)	McCain (R)	Spread
+Final Results	--	--	--	56.8	40.4	Obama +16.4
+RCP Average	10/25 - 10/30	--	--	55.3	39.7	Obama +15.6
+Rasmussen	10/30 - 10/30	500 LV	4.0	54	42	Obama +12
+Research 2000	10/27 - 10/29	500 LV	4.0	55	39	Obama +16
+PPP (D)	10/28 - 10/30	1424 LV	2.6	57	42	Obama +15
+SurveyUSA	10/25 - 10/26	672 LV	3.8	57	38	Obama +19
+Riley Research	10/10 - 10/20	499 RV	4.4	48	34	Obama +14
+Research 2000	10/14 - 10/15	600 LV	4.0	53	38	Obama +15
+Rasmussen	10/14 - 10/14	500 LV	4.0	54	41	Obama +13
+SurveyUSA	10/11 - 10/12	584 LV	4.1	57	40	Obama +17
+Rasmussen	10/9 - 10/9	700 LV	4.0	54	43	Obama +11
+Research 2000	9/22 - 9/24	600 LV	4.0	53	39	Obama +14
+SurveyUSA	9/22 - 9/23	708 LV	3.8	52	41	Obama +11
+Rasmussen	9/15 - 9/15	700 LV	4.0	51	47	Obama +4
+Portland Tribune	9/11 - 9/14	500 RV	4.4	50	40	Obama +10
+Moore Info. (R)	9/10 - 9/11	408 RV	5.0	43	37	Obama +6
+Hoffman Research (R)	9/8 - 9/9	600 LV	4.0	46	39	Obama +7
+Rasmussen	8/7 - 8/7	700 LV	4.0	52	42	Obama +10
+SurveyUSA	8/2 - 8/4	629 LV	4.0	48	45	Obama +3
+Rasmussen	7/15 - 7/15	500 LV	--	49	40	Obama +9
+SurveyUSA	6/17 - 6/19	547 LV	--	48	45	Obama +3
+Rasmussen	6/11 - 6/11	500 LV	--	46	38	Obama +8
+SurveyUSA	5/16 - 5/18	600 RV	--	49	39	Obama +10
+Rasmussen	5/7 - 5/7	500 LV	4.0	52	38	Obama +14
+SurveyUSA	4/11 - 4/13	543 RV	--	51	42	Obama +9
+Rasmussen	3/26 - 3/26	500 LV	--	48	42	Obama +6
+SurveyUSA	2/26 - 2/28	628 RV	--	49	41	Obama +8
+Riley Research	2/7 - 2/18	401 LV	--	46	38	Obama +8
+SurveyUSA	2/15 - 2/17	530 RV	--	48	47	Obama +1
+Rasmussen	2/13 - 2/13	500 LV	--	49	40	Obama +9
+SurveyUSA	1/11 - 1/13	544 RV	--	47	47	Tie
+SurveyUSA	12/13 - 12/15	537 RV	--	46	44	Obama +2

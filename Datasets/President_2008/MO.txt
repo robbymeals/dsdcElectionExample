@@ -1,0 +1,48 @@
+Poll	Date	Sample	MoE	McCain (R)	Obama (D)	Spread
+Final Results	--	--	--	49.4	49.3	McCain +0.1
+RCP Average	10/28 - 11/3	--	--	48.5	47.8	McCain +0.7
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	49	49	Tie
+Reuters/Zogby	10/31 - 11/3	585 LV	4.1	49	49	Tie
+SurveyUSA	10/30 - 11/2	674 LV	3.9	48	48	Tie
+PPP (D)	10/31 - 11/2	1343 LV	2.7	49	49	Tie
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	47	46	McCain +1
+Politico/InAdv	10/29 - 10/29	814 LV	3.4	50	47	McCain +3
+ARG	10/28 - 10/30	600 LV	4.0	48	48	Tie
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	47	48	Obama +1
+CNN/Time	10/23 - 10/28	774 LV	3.5	50	48	McCain +2
+SurveyUSA	10/25 - 10/26	672 LV	3.9	48	48	Tie
+Reuters/Zogby	10/23 - 10/26	601 LV	4.1	46	48	Obama +2
+NBC/Mason-Dixon	10/22 - 10/23	625 LV	4.0	46	45	McCain +1
+Post-Dispatch/R2000	10/20 - 10/23	800 LV	3.5	47	48	Obama +1
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	44	49	Obama +5
+Suffolk	10/17 - 10/19	600 LV	4.0	45	44	McCain +1
+Rasmussen	10/15 - 10/15	700 LV	4.5	46	52	Obama +6
+CNN/Time	10/11 - 10/14	763 LV	3.5	49	48	McCain +1
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	47	50	Obama +3
+SurveyUSA	10/11 - 10/12	546 LV	4.3	43	51	Obama +8
+PPP (D)	10/11 - 10/12	1009 LV	3.1	46	48	Obama +2
+ARG	10/4 - 10/6	600 LV	4.0	49	46	McCain +3
+FOX News/Rasmussen	10/5 - 10/5	1000 LV	3.0	47	50	Obama +3
+CNN/Time	9/28 - 9/30	744 LV	3.5	48	49	Obama +1
+SurveyUSA	9/23 - 9/24	705 LV	3.8	48	46	McCain +2
+Post-Dispatch/R2000	9/22 - 9/24	800 LV	3.5	47	46	McCain +1
+Post-Dispatch/R2000	9/15 - 9/18	800 LV	3.5	49	45	McCain +4
+Rasmussen	9/11 - 9/11	700 LV	4.0	51	46	McCain +5
+CNN/Time	9/7 - 9/9	940 RV	3.0	50	45	McCain +5
+PPP (D)	8/13 - 8/17	750 LV	3.6	50	40	McCain +10
+Rasmussen	8/7 - 8/7	500 LV	4.5	50	44	McCain +6
+SurveyUSA	7/29 - 7/31	1459 LV	3.0	49	44	McCain +5
+Research 2000	7/7 - 7/10	800 LV	3.5	43	48	Obama +5
+Rasmussen	7/7 - 7/7	500 LV	--	50	45	McCain +5
+PPP (D)	7/2 - 7/5	723 LV	--	47	44	McCain +3
+SurveyUSA	6/20 - 6/22	543 LV	--	50	43	McCain +7
+Rasmussen	6/3 - 6/3	500 LV	--	42	43	Obama +1
+SurveyUSA	5/16 - 5/18	1523 LV	--	48	45	McCain +3
+Rasmussen	5/6 - 5/6	500 LV	--	47	41	McCain +6
+SurveyUSA	4/11 - 4/13	542 RV	--	50	42	McCain +8
+Rasmussen	3/24 - 3/24	500 LV	--	53	38	McCain +15
+SurveyUSA	3/14 - 3/16	536 RV	--	53	39	McCain +14
+SurveyUSA	2/26 - 2/28	632 RV	--	48	42	McCain +6
+Rasmussen	2/11 - 2/11	500 LV	--	42	40	McCain +2
+SurveyUSA	1/11 - 1/13	562 RV	--	51	40	McCain +11
+SurveyUSA	12/13 - 12/15	547 RV	--	44	47	Obama +3

@@ -1,0 +1,44 @@
+Poll	Date	Sample	MoE	Obama (D)	McCain (R)	Spread
+Final Results	--	--	--	54.1	44.5	Obama +9.6
+RCP Average	10/27 - 11/2	--	--	52.8	42.2	Obama +10.6
+WMUR/UNH	10/30 - 11/2	830 LV	3.9	53	42	Obama +11
+Rasmussen	10/30 - 10/30	700 LV	4.0	51	44	Obama +7
+SurveyUSA	10/29 - 10/30	682 LV	3.8	53	42	Obama +11
+Concord Monitor	10/28 - 10/30	600 LV	4.0	51	44	Obama +7
+ARG	10/28 - 10/30	600 LV	4.0	56	41	Obama +15
+Suffolk	10/27 - 10/29	600 LV	4.0	53	40	Obama +13
+Strategic Vision (R)	10/27 - 10/29	800 LV	3.0	50	41	Obama +9
+WMUR/UNH	10/25 - 10/27	652 LV	3.8	58	33	Obama +25
+Associated Press/GfK	10/22 - 10/26	600 LV	4.0	55	37	Obama +18
+NBC/Mason-Dixon	10/23 - 10/25	625 LV	4.0	50	39	Obama +11
+Rasmussen	10/23 - 10/23	700 LV	4.0	50	46	Obama +4
+Marist	10/22 - 10/23	655 LV	4.0	50	45	Obama +5
+Boston Globe/UNH	10/18 - 10/22	725 LV	3.5	54	39	Obama +15
+Concord Monitor	10/17 - 10/19	600 LV	4.0	50	43	Obama +7
+ARG	10/6 - 10/8	600 LV	4.0	52	43	Obama +9
+CNN/Time	10/3 - 10/6	813 LV	3.5	53	45	Obama +8
+SurveyUSA	10/4 - 10/5	647 LV	3.9	53	40	Obama +13
+Rasmussen	10/1 - 10/1	700 LV	4.0	53	43	Obama +10
+St. Anselm/SRBI	9/25 - 9/30	823 LV	3.5	49	37	Obama +12
+Concord Monitor	9/22 - 9/24	600 LV	4.0	48	44	Obama +4
+Strategic Vision (R)	9/22 - 9/24	800 LV	3.0	46	45	Obama +1
+7News/Suffolk	9/20 - 9/24	600 LV	--	46	45	Obama +1
+Rasmussen	9/23 - 9/23	700 LV	4.0	47	49	McCain +2
+National Journal/FD	9/18 - 9/22	403 RV	4.9	44	43	Obama +1
+Marist	9/17 - 9/21	604 LV	3.5	51	45	Obama +6
+University of New Hampshire	9/14 - 9/21	523 LV	4.3	45	47	McCain +2
+CNN/Time	9/7 - 9/9	899 RV	3.0	51	45	Obama +6
+Rasmussen	8/18 - 8/18	500 LV	4.0	47	46	Obama +1
+Rasmussen	7/23 - 7/23	700 LV	4.0	49	45	Obama +4
+University of New Hampshire	7/11 - 7/20	475 LV	--	46	43	Obama +3
+Rasmussen	6/18 - 6/18	500 LV	--	50	39	Obama +11
+Rasmussen	5/21 - 5/21	500 LV	--	48	43	Obama +5
+Dartmouth	4/28 - 5/2	400 RV	--	39	42	McCain +3
+University of New Hampshire	4/25 - 4/30	456 LV	4.6	43	49	McCain +6
+Rasmussen	4/30 - 4/30	500 LV	--	41	51	McCain +10
+Rasmussen	3/16 - 3/16	500 LV	--	43	46	McCain +3
+SurveyUSA	2/26 - 2/28	637 RV	--	46	44	Obama +2
+Rasmussen	2/11 - 2/11	500 LV	--	49	36	Obama +13
+Concord Monitor	12/10 - 12/12	600 LV	--	46	43	Obama +3
+Suffolk	2/24 - 2/28	500 LV	--	42	42	Tie
+Research 2000	12/18 - 12/20	600 LV	--	47	43	Obama +4

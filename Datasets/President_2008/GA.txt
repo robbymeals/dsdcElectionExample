@@ -1,0 +1,41 @@
+Poll	Date	Sample	MoE	McCain (R)	Obama (D)	Spread
+Final Results	--	--	--	52.2	47.0	McCain +5.2
+RCP Average	10/28 - 11/2	--	--	49.8	45.8	McCain +4.0
+InAdv/PollPosition	11/2 - 11/2	512 LV	4.0	48	47	McCain +1
+SurveyUSA	10/30 - 11/2	683 LV	3.8	52	45	McCain +7
+Strategic Vision (R)	10/31 - 11/2	800 LV	3.0	50	46	McCain +4
+PPP (D)	10/31 - 11/2	1253 LV	2.8	50	48	McCain +2
+Rasmussen	10/30 - 10/30	500 LV	4.5	52	47	McCain +5
+Research 2000	10/28 - 10/30	600 LV	4.0	47	44	McCain +3
+InAdv/PollPosition	10/27 - 10/27	637 LV	3.8	48	47	McCain +1
+CNN/Time	10/23 - 10/28	690 LV	3.5	52	47	McCain +5
+NBC/Mason-Dixon	10/22 - 10/23	625 LV	4.0	49	43	McCain +6
+InAdv/PollPosition	10/23 - 10/23	615 LV	3.8	47	48	Obama +1
+Rasmussen	10/22 - 10/22	500 LV	4.5	51	46	McCain +5
+Strategic Vision (R)	10/20 - 10/22	800 LV	3.0	51	45	McCain +6
+Research 2000	10/14 - 10/15	600 LV	4.0	49	43	McCain +6
+CNN/Time	10/11 - 10/14	718 LV	3.5	53	45	McCain +8
+SurveyUSA	10/11 - 10/12	547 LV	4.3	51	43	McCain +8
+InAdv/PollPosition	10/9 - 10/9	531 LV	4.0	49	46	McCain +3
+Rasmussen	10/7 - 10/7	500 LV	4.5	54	45	McCain +9
+Strategic Vision (R)	10/5 - 10/7	800 LV	3.0	50	43	McCain +7
+Research 2000	9/29 - 10/1	600 LV	4.0	50	43	McCain +7
+InAdv/PollPosition	9/30 - 9/30	561 LV	4.0	50	44	McCain +6
+SurveyUSA	9/28 - 9/29	677 LV	3.8	52	44	McCain +8
+InAdv/PollPosition	9/17 - 9/17	503 LV	4.3	51	43	McCain +8
+SurveyUSA	9/14 - 9/16	684 LV	3.8	57	41	McCain +16
+Rasmussen	9/16 - 9/16	500 LV	--	54	43	McCain +11
+InAdv/PollPosition	9/10 - 9/10	506 LV	4.0	56	38	McCain +18
+Strategic Vision (R)	9/7 - 9/9	800 LV	--	52	39	McCain +13
+Rasmussen	8/14 - 8/14	500 LV	--	53	44	McCain +9
+Rasmussen	7/17 - 7/17	500 LV	4.5	53	42	McCain +11
+InAdv/PollPosition	7/2 - 7/2	502 LV	--	46	44	McCain +2
+Strategic Vision (R)	6/27 - 6/29	800 LV	--	51	43	McCain +8
+Rasmussen	6/26 - 6/26	800 LV	4.0	53	43	McCain +10
+InAdv/PollPosition	6/18 - 6/18	408 LV	5.0	44	43	McCain +1
+Rasmussen	6/4 - 6/4	500 LV	--	51	41	McCain +10
+Insider Advantage	5/20 - 5/20	652 LV	3.6	45	35	McCain +10
+Strategic Vision (R)	5/9 - 5/11	800 LV	--	54	40	McCain +14
+Rasmussen	5/6 - 5/6	500 LV	--	53	39	McCain +14
+Rasmussen	3/20 - 3/20	500 LV	--	53	40	McCain +13
+SurveyUSA	2/26 - 2/28	592 RV	--	54	41	McCain +13

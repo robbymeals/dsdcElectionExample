@@ -1,0 +1,22 @@
+Poll	Date	Sample	MoE	Obama (D)	Romney (R)	Spread
+RCP Average	8/23 - 9/23	--	--	51.4	38.6	Obama +12.8
+Monmouth University	9/19 - 9/23	613 LV	4.0	52	37	Obama +15
+Philadelphia Inquirer	9/9 - 9/12	600 LV	4.0	51	37	Obama +14
+Fairleigh Dickinson	9/6 - 9/12	706 LV	3.8	52	38	Obama +14
+Quinnipiac	8/27 - 9/2	1471 LV	2.6	51	44	Obama +7
+Rutgers-Eagleton	8/23 - 8/25	710 LV	3.5	51	37	Obama +14
+Fairleigh Dickinson	7/23 - 7/29	849 RV	3.5	49	36	Obama +13
+Monmouth University	7/18 - 7/22	535 LV	4.2	50	42	Obama +8
+Quinnipiac	7/9 - 7/15	1623 RV	2.4	49	38	Obama +11
+Rutgers-Eagleton	5/31 - 6/4	1065 RV	2.9	56	33	Obama +23
+Quinnipiac	5/9 - 5/14	1582 RV	2.5	49	39	Obama +10
+Quinnipiac	4/3 - 4/9	1607 RV	2.4	49	40	Obama +9
+Fairleigh Dickinson	3/5 - 3/11	800 RV	3.5	50	37	Obama +13
+SurveyUSA	2/24 - 2/26	533 RV	4.3	52	38	Obama +14
+Quinnipiac	2/21 - 2/27	1396 RV	2.6	49	39	Obama +10
+Quinnipiac	1/10 - 1/16	1460 RV	2.6	48	38	Obama +10
+Quinnipiac	11/9 - 11/14	1788 RV	2.3	49	40	Obama +9
+Quinnipiac	10/5 - 10/10	1186 RV	2.9	47	41	Obama +6
+PPP (D)	7/15 - 7/18	480 RV	4.5	53	39	Obama +14
+Rasmussen Reports	5/26 - 5/26	500 LV	4.5	49	43	Obama +6
+PPP (D)	1/6 - 1/9	520 RV	4.3	52	37	Obama +15

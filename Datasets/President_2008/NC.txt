@@ -1,0 +1,74 @@
+Poll	Date	Sample	MoE	McCain (R)	Obama (D)	Spread
+Final Results	--	--	--	49.4	49.7	Obama +0.3
+RCP Average	10/28 - 11/3	--	--	48.4	48.0	McCain +0.4
+FOX News/Rasmussen	11/2 - 11/2	1000 LV	3.0	50	49	McCain +1
+Reuters/Zogby	10/31 - 11/3	585 LV	4.1	50	49	McCain +1
+ARG	10/31 - 11/3	600 LV	4.0	48	49	Obama +1
+SurveyUSA	10/30 - 11/2	682 LV	3.8	49	48	McCain +1
+PPP (D)	10/31 - 11/2	2100 LV	2.1	49	50	Obama +1
+Mason-Dixon	10/29 - 10/30	625 LV	4.0	49	46	McCain +3
+Research 2000	10/28 - 10/30	600 LV	4.0	45	47	Obama +2
+Politico/InAdv	10/29 - 10/29	641 LV	3.7	48	48	Tie
+Rasmussen	10/29 - 10/29	1000 LV	3.0	48	50	Obama +2
+Civitas/TelOpinion (R)	10/27 - 10/29	600 LV	4.2	46	47	Obama +1
+CNN/Time	10/23 - 10/28	667 LV	4.0	46	52	Obama +6
+National Journal/FD	10/23 - 10/27	402 RV	4.9	43	47	Obama +4
+FOX News/Rasmussen	10/26 - 10/26	1000 LV	3.0	49	48	McCain +1
+PPP (D)	10/25 - 10/26	1038 LV	2.8	48	49	Obama +1
+Reuters/Zogby	10/23 - 10/26	601 LV	4.1	46	50	Obama +4
+Associated Press/GfK	10/22 - 10/26	601 LV	4.0	46	48	Obama +2
+NBC/Mason-Dixon	10/22 - 10/24	800 LV	3.0	47	47	Tie
+Rasmussen	10/23 - 10/23	700 LV	4.0	50	48	McCain +2
+WSOC-TV	10/20 - 10/21	500 LV	4.4	46	48	Obama +2
+CNN/Time	10/19 - 10/21	644 LV	4.0	47	51	Obama +4
+SurveyUSA	10/18 - 10/20	627 LV	4.0	47	47	Tie
+Politico/InAdv	10/19 - 10/19	698 LV	3.6	48	49	Obama +1
+FOX News/Rasmussen	10/19 - 10/19	1000 LV	3.0	48	51	Obama +3
+Winthrop/ETV	9/28 - 10/19	744 LV	3.6	44	45	Obama +1
+Civitas/TelOpinion (R)	10/18 - 10/20	600 RV	4.2	45	48	Obama +3
+PPP (D)	10/18 - 10/19	1200 LV	2.8	44	51	Obama +7
+Research 2000	10/14 - 10/15	600 LV	4.0	44	46	Obama +2
+InAdv/PollPosition	10/13 - 10/13	474 LV	5.0	46	48	Obama +2
+FOX News/Rasmussen	10/12 - 10/12	1000 LV	3.0	48	48	Tie
+PPP (D)	10/11 - 10/12	1196 LV	2.8	46	49	Obama +3
+Rasmussen	10/8 - 10/8	700 LV	3.0	48	49	Obama +1
+Civitas/TelOpinion (R)	10/6 - 10/8	600 LV	--	43	48	Obama +5
+WSOC-TV	10/6 - 10/7	500 LV	4.5	48	46	McCain +2
+SurveyUSA	10/5 - 10/6	617 LV	4.0	49	46	McCain +3
+CNN/Time	10/3 - 10/6	666 LV	4.0	49	49	Tie
+PPP (D)	10/4 - 10/5	1202 LV	2.8	44	50	Obama +6
+Rasmussen	9/30 - 9/30	700 LV	4.0	47	50	Obama +3
+ARG	9/27 - 9/29	600 LV	4.0	49	46	McCain +3
+PPP (D)	9/27 - 9/28	1041 LV	3.0	45	47	Obama +2
+Rasmussen	9/23 - 9/23	500 LV	4.5	47	49	Obama +2
+Civitas/TelOpinion (R)	9/17 - 9/20	600 LV	--	45	45	Tie
+Rasmussen	9/18 - 9/18	500 LV	4.5	50	47	McCain +3
+PPP (D)	9/17 - 9/19	1060 LV	3.0	46	46	Tie
+CNN/Time	9/13 - 9/14	910 RV	3.5	48	47	McCain +1
+Research 2000	9/8 - 9/10	600 LV	4.0	55	38	McCain +17
+PPP (D)	9/9 - 9/9	626 LV	3.9	48	44	McCain +4
+Civitas/TelOpinion (R)	9/6 - 9/10	600 LV	--	47	44	McCain +3
+SurveyUSA	9/6 - 9/8	671 LV	--	58	38	McCain +20
+PPP (D)	8/20 - 8/23	904 LV	--	45	42	McCain +3
+InsiderAdvantage	8/19 - 8/19	614 LV	--	45	43	McCain +2
+Civitas/TelOpinion (R)*	8/14 - 8/17	600 RV	4.2	46	40	McCain +6
+Rasmussen	8/13 - 8/13	700 LV	4.0	50	44	McCain +6
+SurveyUSA	8/9 - 8/11	655 LV	3.9	49	45	McCain +4
+Research 2000	7/28 - 7/30	600 LV	4.0	47	43	McCain +4
+Civitas/TelOpinion (R)	7/14 - 7/16	800 RV	--	43	40	McCain +3
+Rasmussen	7/15 - 7/15	500 LV	--	48	45	McCain +3
+SurveyUSA	7/12 - 7/14	676 LV	--	50	45	McCain +5
+PPP (D)*	6/26 - 6/29	1048 LV	--	45	41	McCain +4
+Civitas/TelOpinion (R)	6/11 - 6/13	600 RV	--	45	41	McCain +4
+Rasmussen	6/10 - 6/10	500 LV	4.0	45	43	McCain +2
+PPP (D)*	5/28 - 5/29	543 LV	--	43	40	McCain +3
+SurveyUSA	5/17 - 5/19	713 LV	--	51	43	McCain +8
+Civitas/TelOpinion (R)	5/14 - 5/17	700 V	--	44	39	McCain +5
+Rasmussen	5/8 - 5/8	500 LV	--	48	45	McCain +3
+PPP (D)	5/8 - 5/9	616 LV	--	49	42	McCain +7
+Research 2000	4/28 - 4/30	600 LV	--	50	41	McCain +9
+Rasmussen	4/10 - 4/10	500 LV	--	47	47	Tie
+Civitas/TelOpn (R)*	4/9 - 4/10	800 LV	--	48	39	McCain +9
+Rasmussen	3/20 - 3/20	500 LV	--	51	42	McCain +9
+SurveyUSA	2/26 - 2/28	630 RV	--	47	45	McCain +2
+Public Policy Polling (D)	6/19 - 6/19	545 LV	--	45	44	McCain +1
