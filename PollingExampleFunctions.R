@@ -52,7 +52,8 @@ ppDf_polling <- function(inDf, candidates, elecDay, elecPassed, cutOff=NA){
 ## 				Alpha and Beta unweighted, change value of wtVars to add weights
 ##################################################################
 runUpdatingModels <- function(	yVar, DF, init_m=0.5, init_n=2, 
-								pollWts = data.frame('alpha'=rep(1,nrow(DF)),'beta'=rep(1,nrow(DF)))){
+								pollWts = data.frame('alpha'=rep(1,nrow(DF)),
+								'beta'=rep(1,nrow(DF)))){
 	init_N <- DF[1,'SampleSize']
 	init_Y <- DF[1,yVar]
 	model_lists <- list()
@@ -60,15 +61,17 @@ runUpdatingModels <- function(	yVar, DF, init_m=0.5, init_n=2,
 	models <- as.data.frame(matrix(nrow=nrow(DF), ncol=ncol(model_lists[[1]][['InfDf']])))
 	colnames(models) <- colnames(model_lists[[1]][['InfDf']])
 	models[1,] <- model_lists[[1]][['InfDf']][1,]
+	models[1,'alpha_prior'] <- models[1,'alpha_posterior'] * pollWts[1,'alpha']
+	models[1,'beta_prior'] <- models[1,'beta_posterior'] * pollWts[1, 'beta']
 	for (i in seq(from=2, to=nrow(models))){
-		models[(i-1),'alpha_prior'] <- 	models[(i-1),'alpha_posterior'] * pollWts[i-1,'alpha']
-		models[(i-1),'beta_prior'] <- 	models[(i-1),'beta_posterior'] * pollWts[i-1, 'beta']
 		N <- DF[i,'SampleSize']
 		Y <- DF[i,yVar]
 		a <- models[(i-1),'alpha_prior']
 		b <- models[(i-1),'beta_prior']
 		model_lists[[i]] <- getModelValues(0,0,N,Y,a,b)
 		models[i,] <- model_lists[[i]][['InfDf']][1,]
+		models[i,'alpha_prior'] <- models[i,'alpha_posterior'] * pollWts[i,'alpha']
+		models[i,'beta_prior'] <- models[i,'beta_posterior'] * pollWts[i, 'beta']
 	}
 	return(list('models_df'=models,'models_list'=model_lists))
 }

@@ -6,28 +6,22 @@
 #library(xtable)
 #library(plyr)
 #library(scales)
+#library(ggmap)
+##library(gridExtra)
 
-#setwd('/home/rmealey/Dropbox/LaPlacianAmbitions/BinomProp/DataSciPres')
+## General Bayesian Binom Prop Inference Functions
+#source('InferenceFunctions.R') 
+## Functions specific to Polling Data Example
+#source('PollingExampleFunctions.R') 
 
-#source('rCode/InferenceFunctions.R')
-#source('rCode/PollingExample/PollingExampleFunctions.R')
-
-### 2008 Parameters
-##elecDay <- '2008-11-04'
-##cutOff <- '2008-08-01'
-##elecPassed = T
-##elecType <- 'President'
-##candidates <- list('d'='Obama','r'='McCain')
-##d_m = 0.5
-##r_m = 0.5
-##init_n = 2
-
-### 2012 Parameters
-#elecDay <- '2012-11-06'
-#cutOff <- '2012-06-01'
-#elecPassed = F
+##### 2008 Election ####
+## 2008 Parameters
+#elecDay <- '2008-11-04'
+#cutOff <- '2008-08-01'
+##cutOff <- NA
+#elecPassed = T
 #elecType <- 'President'
-#candidates <- list('d'='Obama','r'='Romney')
+#candidates <- list('d'='Obama','r'='McCain')
 #d_m = 0.5
 #r_m = 0.5
 #init_n = 2

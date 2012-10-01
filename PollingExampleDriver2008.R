@@ -6,6 +6,7 @@ library(xtable)
 library(plyr)
 library(scales)
 library(ggmap)
+library(gridExtra)
 
 # General Bayesian Binom Prop Inference Functions
 source('InferenceFunctions.R') 
